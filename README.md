@@ -1,3 +1,11 @@
+# Lab 33
+
+# Project Name: drf-auth
+
+# Author: Malek Abdelal
+
+-------
+
 # api-quick-start
 
 Template Project for starting up CRUD API with Django Rest Framework
