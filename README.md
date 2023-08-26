@@ -1,6 +1,6 @@
-# Lab 33
+# Lab 34
 
-# Project Name: drf-auth
+# Project Name: cookie stand api - Putting it All Together
 
 # Author: Malek Abdelal
 
